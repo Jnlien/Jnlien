@@ -1,4 +1,4 @@
-## Version FR — Présentation Jul!en
+<!-- ## Version FR — Présentation Jul!en
 
 Salut ! Moi c’est **Jul!en**, **développeur de serveurs FiveM** et grand fan de la saga **Grand Theft Auto**.
 
@@ -9,8 +9,7 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 - **Vice City**
 - **Liberty City**
 
----
-
+--->
 ## Version US — Jul!en Introduction
 
 Hey! I’m **Jul!en**, a **FiveM server developer** and a huge fan of the **Grand Theft Auto** franchise.

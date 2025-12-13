@@ -9,7 +9,7 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 - **Vice City**
 - **Liberty City**
 
-***
+---
 
 ## Version US — Jul!en Introduction
 

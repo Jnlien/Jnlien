@@ -15,8 +15,3 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 👋 Hey ! I’m **Jul!en**, a **FiveM server developer** and a huge fan of the **Grand Theft Auto** franchise.
 
 👀 I build and improve systems to deliver an immersive, smooth, and optimized RP experience directly inspired by the GTA universe I’ve always loved.
-
-### ❤️ Favorite GTA settings
-- **San Andreas**
-- **Vice City**
-- **Liberty City**

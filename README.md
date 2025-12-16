@@ -15,4 +15,4 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 
 👀 I build and improve systems to deliver an immersive, smooth, and optimized RP experience directly inspired by the GTA universe I’ve always loved.
 
-<center>[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield)](S43KWKvjwY)</center>
+<center> [![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield)](S43KWKvjwY) </center>

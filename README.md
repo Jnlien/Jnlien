@@ -11,7 +11,7 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 
 --->
 ## Jul!en Introduction
-[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=banner4)](S43KWKvjwY)
+[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=banner5)](S43KWKvjwY)
 
 👋 Hey ! I’m **Jul!en**, a **FiveM server developer** and a huge fan of the **Grand Theft Auto** franchise.
 

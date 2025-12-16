@@ -25,6 +25,6 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
   <!-- Langages -->
   <img src="https://img.shields.io/badge/Lua-Expert-2C2D72?logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/PAWN-Expert-7A1FA2?logoColor=white" alt="PAWN" />
-  <br/>
-  <a href="TON_LIEN_INVITATION"><img src="https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield" alt="Discord"></a>
+  <!--<br/>
+  <a href="TON_LIEN_INVITATION"><img src="https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield" alt="Discord"></a> -->
 </p>

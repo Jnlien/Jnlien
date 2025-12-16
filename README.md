@@ -9,6 +9,7 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 - **Vice City**
 - **Liberty City**
 
+[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield)](S43KWKvjwY)
 --->
 ## Jul!en Introduction
 👋 Hey ! I’m **Jul!en**, a **FiveM server developer** and a huge fan of the **Grand Theft Auto** franchise.
@@ -17,7 +18,5 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 
 <p align="center">
   <a href="TON_LIEN_INVITATION"><img src="https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield" alt="Discord"></a>
-  <a href="https://github.com/Jnlien"><img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub"></a>
 </p>
 
-[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield)](S43KWKvjwY)

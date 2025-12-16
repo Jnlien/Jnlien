@@ -11,7 +11,7 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 
 --->
 ## Jul!en Introduction
-[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=banner2)](S43KWKvjwY)
+[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=banner1)](S43KWKvjwY)
 
 [![Discord](https://img.shields.io/discord/1336121433637523567?label=Discord&logo=discord)](https://discord.gg/S43KWKvjwY)
 

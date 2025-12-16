@@ -16,7 +16,7 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 
 👀 I build and improve systems to deliver an immersive, smooth, and optimized RP experience directly inspired by the GTA universe I’ve always loved.
 
-## Jul!en development
+## Discord
 <p align="center">
   <a href="TON_LIEN_INVITATION"><img src="https://discord.com/api/guilds/1336121433637523567/widget.png?style=banner2" alt="Discord"></a>
 </p>

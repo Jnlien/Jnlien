@@ -15,4 +15,9 @@ Je crée et améliore des systèmes pour offrir une expérience RP immersive, fl
 
 👀 I build and improve systems to deliver an immersive, smooth, and optimized RP experience directly inspired by the GTA universe I’ve always loved.
 
-<center> [![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield)](S43KWKvjwY) </center>
+<p align="center">
+  <a href="TON_LIEN_INVITATION"><img src="https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield" alt="Discord"></a>
+  <a href="https://github.com/Jnlien"><img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub"></a>
+</p>
+
+[![Discord](https://discord.com/api/guilds/1336121433637523567/widget.png?style=shield)](S43KWKvjwY)
